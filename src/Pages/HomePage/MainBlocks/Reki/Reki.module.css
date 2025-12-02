@@ -1,0 +1,86 @@
+.Reki{
+    background-color: #F3F5F4;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 0 100px 0;
+    gap: 90px;
+}
+
+.Luch{
+    max-width: 580px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.Kartinki{
+    display: flex;
+    max-width: 510px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.Pohode{
+    font-size: 24px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    color: #F2BE22;
+    margin-bottom: 8px;
+}
+
+.Gorn{
+    font-size: 32px;
+    font-family: 'Nunito Sans';
+    font-weight: 800;
+}
+
+.Ego{
+    font-size: 18px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+}
+
+.Gadi{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.Opit{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.Pohod{
+    font-size: 18px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+}
+
+.Loyl{
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+}
+
+.Price_Prog{
+    width: 236px;
+    height: 52px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #1A3E3E;
+    font-size: 16px;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.Price_Prog:hover{
+    transform: scale(1.1);
+}

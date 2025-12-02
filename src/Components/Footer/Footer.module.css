@@ -1,0 +1,45 @@
+.Footer{
+    background-color: #1A3E3E;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito Sans';
+    padding: 173px 0 53px;
+}
+
+.Fot_Info{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.Company{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.Frag{
+    width: 480px;
+    font-size: 16px;
+    margin-bottom: 80px;
+}
+
+.Cont{
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    margin-bottom: 32px;
+}
+
+.Mail, .Phone{
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.Soc{
+    display: flex;
+    gap: 16px;
+}

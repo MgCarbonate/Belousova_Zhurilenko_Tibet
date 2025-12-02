@@ -1,0 +1,50 @@
+.SearchGroup{
+    background-color: rgba(255, 255, 255, 0.207);
+    border-radius: 10px;
+    padding: 40px 30px;
+}
+
+.NoOpasity{
+    display: flex;
+    justify-content: space-between;
+}
+
+.SelectOp, .DateCall{
+    width: 270px;
+    height: 52px;
+    border: 1px solid #E1E3E4;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    font-size: 16px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    margin-bottom: 8px;
+    padding: 0 10px;
+    border-radius: 8px;
+}
+
+.SelectOp option{
+    color: black;
+}
+
+.Vibori{
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    color: white;
+}
+
+.SearchProg{
+    width: 213px;
+    height: 52px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: white;
+    font-size: 16px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    color: #1A3E3E;
+}

@@ -1,0 +1,58 @@
+.InfoBlock{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 1180px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.Issa_Text{
+    display: flex;
+    flex-direction: column;
+    width: 580px;
+}
+
+.Net{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+.Pohode{
+    font-size: 24px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    color: #F2BE22;
+    margin-bottom: 8px;
+}
+
+.Gorn{
+    font-size: 32px;
+    font-family: 'Nunito Sans';
+    font-weight: 800;
+    color: #18121E;
+}
+
+.Korn{
+    font-size: 18px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    color: #18121E;
+    margin-bottom: 40px;
+}
+
+.Progis{
+    width: 200px;
+    height: 52px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #1A3E3E;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+}

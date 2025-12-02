@@ -1,0 +1,46 @@
+.Odino {
+    display: flex;
+    gap: 24px;
+    padding: 16px;
+    border-radius: 6px;
+    width: 580px;
+    height: 312px;
+    background-color: white;
+}
+
+.Infa_It {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Kras {
+    font-size: 24px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+}
+
+.Cov {
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 500;
+}
+
+.Niz_Mc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Kogda {
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+    color: #F2BE22;
+}
+
+.Chitay {
+    font-size: 14px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    color: #1A3E3E;
+}

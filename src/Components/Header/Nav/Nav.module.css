@@ -1,0 +1,11 @@
+.Nav ul{
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    width: 630px;
+    margin-left: 212px;
+    margin-right: 49px;
+}
